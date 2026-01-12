@@ -14,7 +14,7 @@ public class GitPrueba1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Voy a empezar de 0");
     }
     
 }
