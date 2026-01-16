@@ -14,7 +14,7 @@ public class GitPrueba1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Voy a empezar de 0");
+        System.out.println("Primera Prueba");
         System.out.println("Segunda Prueba");
         System.out.println("Tercera Prueba");
     }
